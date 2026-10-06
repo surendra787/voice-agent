@@ -1,0 +1,6 @@
+{
+  "name": "AutoPulse",
+  "description": "Smart everyday device automation, reminders, Wi-Fi & hotspot toggling, scheduled calling, SMS tasks, and calendar sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
